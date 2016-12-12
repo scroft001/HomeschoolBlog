@@ -2,6 +2,7 @@
 layout: post
 title: How to Stay Safe Online
 author: Steven Croft
+bgimage: security.jpg 
 ---
 
 Tips and tricks to keep yourself and your kids safe when browsing the web. We build websites, we know how they work and can show you what to avoid or what to proactively do to stay safe online. 

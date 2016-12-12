@@ -91,12 +91,13 @@ button.button-primary:focus {
 .intro-header {
   border-top: 5px solid white;
   background-color:$mono-color;
+  background-size: cover;
 }
 
 .intro-header .post-heading {
   padding: 100px 0 50px;
   color: $white;
-  
+  text-shadow: 1px 1px 1px black;
 }
 
 .intro-header .post-heading h1 {
@@ -104,6 +105,7 @@ button.button-primary:focus {
     font-size: 36px;
     line-height: 1.5;
     font-family:$raleway ;
+    text-shadow: 1px 1px 1px black;
 }
 
 @media only screen and (min-width: 768px) {

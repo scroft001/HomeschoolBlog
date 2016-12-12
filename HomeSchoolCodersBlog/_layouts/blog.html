@@ -19,7 +19,8 @@
   <body>
     
     
-    <div class="intro-header">    
+    <div class="intro-header" {% if page.bgimage %}style="background-image: url(/images/{{ page.bgimage }});"
+{% endif %}>    
       <div class="container">
         <div class="post-heading">
             <h1>{{page.title}}</h1>
