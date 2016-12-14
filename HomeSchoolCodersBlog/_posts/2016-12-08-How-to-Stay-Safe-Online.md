@@ -10,10 +10,10 @@ Tips and tricks to keep yourself and your kids safe when browsing the web. We bu
 ## How to Stay Safe Online
 -----
 
-### Tip #1: Never Use Your Real Name 
+### Tip #1: Never Use Your Real Full Name 
 Just like talking to strangers you would never use your real name online. By using your real name you are challenging the millions of people online to find out every piece of information they can about you, your REAL information. Not that JimmyJon123 has a really cool Scratch account but that James Johnson lives at 1234 JavaScript lane. 
 
-There are so many people out there that can find out almost everything about you with very little information. If they can hack into the site to find your IP address, e-mail address, and passwords don't provide them even more information by giving them your real name. If your account gets hacked, no worries you can make a new one. If someone hacks into your house it will be very expensive to get a new one.
+There are so many people out there that can find out almost everything about you with very little information. If your account gets hacked, no worries you can make a new one. If someone hacks into your house it will be very expensive to get a new one.
 
 Be safe, protect your name.
 
