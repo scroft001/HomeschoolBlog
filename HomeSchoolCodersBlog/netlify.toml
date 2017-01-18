@@ -1,5 +1,0 @@
-# Global settings applied to the whole site.
-[build]
-  base    = "_site"
-  publish = "public"
-  command = "jekyll build"
