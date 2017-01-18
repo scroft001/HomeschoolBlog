@@ -5,10 +5,11 @@ layout: default
 <div class="posts">
   {% for video in site.data.videos %}
   <h3>
-    <a href="https://vimeo.com/{{ video.id }}">
-      {{video.date}}
-    </a>
+  	{{video.date}}
   </h3>
   <p>{{video.topics}}</p>
+  <button> <a href="https://vimeo.com/{{ video.id1 }}/{{ video.id2 }}" target="_blank">
+      Watch Now
+    </a></button>
   {% endfor %}
 </div>
