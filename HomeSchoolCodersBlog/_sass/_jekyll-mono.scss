@@ -93,6 +93,7 @@ button.button-primary:focus {
   background-color:$mono-color;
   background-image: url(/images/headerHome.jpg);
   background-size: cover;
+  background-position:center;
 }
 
 .intro-header .post-heading {
@@ -202,6 +203,7 @@ button.button-primary:focus {
 	top: 20px;
 	left: 20px;
 	background: #fff url(/images/bg.jpg);
+
 	box-shadow: 
 		0 0 0 20px rgba(255,255,255,0.2), 
 		inset 0 0 3px rgba(115,114, 23, 0.8);

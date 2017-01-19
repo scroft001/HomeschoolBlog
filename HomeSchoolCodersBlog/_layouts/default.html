@@ -24,24 +24,37 @@
          <div class="container">
            <header class="masthead clearfix">
              <div class="site-info">
-               <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-               <p class="site-description">{{ site.description }}</p>
+              <h1 class="site-name">
+<img style="display:inline; width: 30px; margin-bottom:-3px;" src="images/hackingtonsLogoClear.png">
+ 
+               <a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+               <p style="margin-left:38px" class="site-description">{{ site.description }}</p>
              </div>
              <nav>
+             <a href="https://app.hackingtons.com/signupPage">Enroll</a>
                <a href="{{ site.baseurl }}/blog">Blog</a>
                <a href="{{ site.baseurl }}/about">About</a>
-               <a href="{{ site.baseurl }}/archive">Live Archive</a>
-               <a href="https://hackingtons.com">Hackingtons</a>
+               <a href="{{ site.baseurl }}/archive">Archive</a>
+               
              </nav>
            </header>
          </div>
        </div>
        
         <div class="container">
-            <div class="space-small"></div>
+            <!-- <div class="space-small">
+
+            </div> -->
            
-            <div class="centered">
-              <ul class="ch-grid">
+            <div style="text-align: center; overflow: hidden" class="">
+            
+            <iframe src="https://player.vimeo.com/video/199875631" width="490"  height="280" webkitallowfullscreen  mozallowfullscreen allowfullscreen></iframe>
+           
+            </div>
+            <br>
+            <br>
+
+             <!--  <ul class="ch-grid">
                 <li>
                     <div class="ch-item">				
                         <div class="ch-info-wrap">
@@ -54,13 +67,14 @@
                         </div>
                     </div>
                 </li>
-            </ul>
-        </div>
+            </ul> -->
+       
              
-             <div class="space-medium"></div>
+             <!-- <div class="space-medium"></div> -->
             
         </div>
     </div>
+   
 
     <div id="main" role="main" class="container">
       {{ content }}
